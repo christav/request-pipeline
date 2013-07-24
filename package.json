@@ -1,0 +1,23 @@
+{
+  "name": "request-pipeline",
+  "version": "0.0.1",
+  "author": "Microsoft Corporation",
+  "contributors": [
+    {
+      "name": "Chris Tavares",
+      "email": "ctavares@microsoft.com"
+    }
+  ],
+
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christav/request-pipeline"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ]
+}
